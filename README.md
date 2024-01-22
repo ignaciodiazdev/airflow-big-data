@@ -12,14 +12,11 @@
 
 ## Estructura del Proyecto
 
-- `dag/`: Aquí están los archivos de definición de los DAGs de Airflow.
-- `scripts/`: Contiene los scripts de transformación de datos enviados a Dataproc.
-- `utils/`: Incluye utilidades y funciones auxiliares necesarias para el flujo de trabajo.
+- `dag-etl.py`: Este es el archivo donde defino el DAG en Airflow.
+- `jobs/`: Contiene los scripts de transformación de datos enviados a Dataproc.
 
 ## Configuración
 
 Antes de ejecutar los DAGs, configura las credenciales de GCP y ajusta los parámetros en los archivos de configuración.
-
-¡Me encantaría recibir contribuciones y sugerencias! Si encuentras algún problema o tienes ideas para mejorar el proyecto, por favor, abre un problema o envía una solicitud de extracción.
 
 ¡Gracias por explorar este proyecto conmigo!
