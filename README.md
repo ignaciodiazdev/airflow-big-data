@@ -1,4 +1,4 @@
-# Orquestación de Datos con Apache Airflow y GCP
+# Orquestación de Datos con Apache Airflow en Google Cloud Platform
 
 ¡Bienvenido a mi repositorio! Aquí encontrarás el código en Python que utilizo para orquestar un flujo de trabajo de transformación de datos con Apache Airflow y Google Cloud Platform (GCP). Este proyecto abarca varias etapas clave:
 
@@ -15,10 +15,6 @@
 - `dag/`: Aquí están los archivos de definición de los DAGs de Airflow.
 - `scripts/`: Contiene los scripts de transformación de datos enviados a Dataproc.
 - `utils/`: Incluye utilidades y funciones auxiliares necesarias para el flujo de trabajo.
-
-## Requisitos
-
-Antes de ejecutar el código, asegúrate de tener instaladas las bibliotecas necesarias especificadas en `requirements.txt`.
 
 ## Configuración
 
