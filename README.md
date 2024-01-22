@@ -1,4 +1,4 @@
-# 🚀 Orquestación de Datos con Apache Airflow en Google Cloud Platform ☁️
+# Orquestación de Datos con Apache Airflow en Google Cloud Platform 🚀
 
 ¡Bienvenido a mi repositorio! Aquí encontrarás el código en Python que utilizo para orquestar un flujo de trabajo de transformación de datos con Apache Airflow y Google Cloud Platform (GCP). Este proyecto abarca varias etapas clave:
 
